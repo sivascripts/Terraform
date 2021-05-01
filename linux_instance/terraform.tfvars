@@ -12,7 +12,7 @@ instance_vars = {
   disk_name      = "csa-siva-test-disk"
   boot_disk_type = "pd-ssd"
   boot_disk_size = "30"
-  name           = "csa-siva-jenkins-pipeline-demo"
+  name           = "siva-jenkins-pipeline-deployed"
 }
 
 image_vars = {
