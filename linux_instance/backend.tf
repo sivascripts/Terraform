@@ -1,8 +1,6 @@
 # Terraform defaults definition including state bucket
 
-/*terraform {
+terraform {
   backend "gcs" {
-    bucket = "csaterraformremote"
-    prefix = "sab/dev/linux/"
   }
-}*/
+}
